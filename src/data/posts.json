@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "test Title",
+      "content": "test content",
+      "createdAt": "2022/11/23"
+    },
+    {
+      "id": 2,
+      "title": "test Title2",
+      "content": "test content2 これはテストですこれはテストですこれはテストですこれはテストですこれはテストですこれはテストですこれはテストですこれはテストです",
+      "createdAt": "2022/11/22"
+    },
+    {
+      "id": 3,
+      "title": "test Title3",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit earum sequi quia, rerum, dicta perferendis dolor quod iure omnis sed consequuntur fugiat facilis! Quibusdam cumque a exercitationem! Velit molestiae accusamus officiis pariatur. Officiis quidem soluta, quas in eveniet temporibus placeat aut harum voluptatem saepe dolore. Fuga quae earum deserunt beatae fugiat iste magni reiciendis dolorum id sed nostrum officiis enim dolore explicabo laboriosam eligendi soluta doloribus illo, inventore incidunt debitis quidem. Eveniet, error minima inventore rem ea aspernatur aperiam omnis.",
+      "createdAt": "2022/11/21"
+    },
+    {
+      "id": "投稿のテスト",
+      "title": "投稿のテスト",
+      "content": "投稿のテスト",
+      "createAt": "2023-11-23T10:27:42.033Z"
+    },
+    {
+      "id": "クリアのテスト",
+      "title": "クリアのテスト",
+      "content": "クリアのテスト",
+      "createAt": "2023-11-23T10:29:51.916Z"
+    },
+    {
+      "id": "リダイレクトのテスト",
+      "title": "リダイレクトのテスト",
+      "content": "リダイレクトのテスト",
+      "createAt": "2023-11-23T11:00:55.035Z"
+    },
+    {
+      "id": "ローディングのテスト",
+      "title": "ローディングのテスト",
+      "content": "ローディングのテスト",
+      "createAt": "2023-11-23T11:17:45.432Z"
+    },
+    {
+      "id": "テスト",
+      "title": "テスト",
+      "content": "テスト",
+      "createAt": "2023-11-23T11:18:20.635Z"
+    }
+  ]
+}
